@@ -68,4 +68,4 @@ Entry point of the application where you can trigger different design pattern de
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/design-patterns.git
+   git clone https://github.com/shiva909/design-patterns.git
